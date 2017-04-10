@@ -1,0 +1,10 @@
+@import "highlight.css";
+
+:root {
+  --bg-color: #cfcfcf;
+}
+
+body {
+  height: 100%;
+  background: var(--bg-color);
+}
